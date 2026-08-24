@@ -696,3 +696,5 @@ Built with ⚡ by **Kaviyarasu C**
 *Agentic AI + RAG · NVIDIA NIM · React · Flask · ChromaDB*
 
 </div>
+#   B a t t e r y G u a r d  
+ 
